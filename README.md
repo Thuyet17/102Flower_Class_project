@@ -28,3 +28,7 @@ venv\Scripts\activate  # Windows
 source venv/bin/activate  # Linux/Mac
 
 ```
+
+## 3. Chạy web
+
+streamlit run src/app.py
